@@ -6,5 +6,5 @@ EKS, Kubernetes, Istio, terraform passionist
 
 Plus(+): (for hobby)
 - LangGraph, LangChain
-- Gemini CLI (skill, sub agent, etc)
+- Codex, Gemini CLI
 - Wingardium Leviosa ✨ ❇️ 
