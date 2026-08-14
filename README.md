@@ -4,13 +4,18 @@ EKS, Kubernetes, Istio, Terraform passionist
 
 - License : CKA, ICA
 
-Plus(+): (for hobby)
 
-- LangGraph, LangChain
-- Codex 
-- Wingardium Leviosa ✨ ❇️ 
 
 Products
 
 - https://anotavis.com
 - https://markdown-explorer.com (Closed)
+
+
+
+Plus(+): (for hobby)
+
+- Wingardium Leviosa ✨ ❇️
+- Codex
+- LangGraph, LangChain
+
