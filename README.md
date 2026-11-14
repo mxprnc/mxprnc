@@ -17,9 +17,14 @@ Plus(+): (for hobby)
 
 - Wingardium Leviosa ✨ ❇️
 - Codex
+- NestJS, Typescript
 - LangGraph, LangChain
 
 Github
 - (Personal) https://github.com/mxprnc
 - (App Development) https://github.com/vokzxcnm
 - (Organization) https://github.com/anotavis
+
+
+What is 'mxprnc'? 
+- 'Mark Experience' ➝ 'mxprnc'
