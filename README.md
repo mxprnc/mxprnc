@@ -6,7 +6,7 @@
 EKS, Kubernetes, Istio, Terraform passionist
 
 - License : CKA, ICA
-
+- https://mxprnc.github.io/nextradocs-kubernetes/
 
 Products
 
