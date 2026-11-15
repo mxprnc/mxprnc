@@ -8,6 +8,18 @@ EKS, Kubernetes, Istio, Terraform passionist
 - License : CKA, ICA
 - https://mxprnc.github.io/nextradocs-kubernetes/ (계속 업데이트 중)
 
+World Quant Brain Research Consultant (2026.11 \~)
+
+Archive Docs
+- https://mxprnc.github.io/nextradocs-navigation/
+
+Resume, Portfolio
+- https://github.com/mxprnc/jobs2026-attachment
+
+<br/>
+
+---
+
 Products
 
 - https://anotavis.com
