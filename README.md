@@ -16,6 +16,8 @@ Archive Docs
 Resume, Portfolio
 - https://github.com/mxprnc/jobs2026-attachment
 
+Career 공백기 설명문서
+- https://mxprnc.github.io/nextradocs-description-letter/
 <br/>
 
 ---
